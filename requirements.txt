@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+kafka-python
+snowflake-connector-python
+dbt-core
+apache-superset
