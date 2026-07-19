@@ -1,0 +1,7 @@
+container_id,commodity,origin,destination,secondary_market,quantity_kg
+C001,Tomatoes,Nashik,Delhi,Jaipur,1200
+C002,Apples,Shimla,Mumbai,Pune,900
+C003,Avocados,Pune,Bengaluru,Hyderabad,1500
+C004,Mangoes,Ratnagiri,Delhi,Jaipur,1800
+C005,Grapes,Nashik,Mumbai,Surat,1000
+C006,Bananas,Jalgaon,Pune,Nagpur,1400
