@@ -1,24 +1,39 @@
-# Infotact-Project1-Team6
-Team repository for AtmoSync, a real-time micro-climate analytics platform that monitors IoT sensor data to predict spoilage risks and optimize commodity logistics.
-Project Description
-IoT Smart Container Monitoring & Supply Chain Analytics analyzes sensor and logistics data to monitor container conditions, battery levels, sensor health, transportation modes, routes, and environmental parameters.
-Tools Used
-Python
-Pandas
-Power BI / Dashboard Visualization
-GitHub
-Key KPIs
-Total Containers
-Average Temperature
-Average Humidity
-Average Vibration
-Average Battery Level
-Active Sensors
-Low Battery Containers
-Sensor Issues
-Key Insights
-Identified low-battery containers requiring attention.
-Compared environmental conditions across commodities.
-Analyzed transportation-mode performance.
-Identified high-volume origin–destination routes.
-Monitored temperature, humidity, vibration, and battery relationships.
+# IoT Smart Container Monitoring Dashboard
+
+## 📊 Project Overview
+
+This project focuses on monitoring IoT sensor data from smart containers and
+visualizing environmental conditions to support real-time monitoring and
+spoilage-risk analysis.
+
+## 🎯 Objective
+
+- Monitor container environmental conditions
+- Analyze temperature and humidity levels
+- Identify potential spoilage risks
+- Visualize sensor data through an interactive dashboard
+- Support better commodity logistics decisions
+
+## 🛠️ Technologies Used
+
+- Python
+- Kafka
+- Snowflake
+- Apache Superset
+- Data Visualization
+- IoT Sensor Data
+
+## 📈 Dashboard
+
+The dashboard provides a visual overview of IoT sensor data and key monitoring
+metrics.
+
+!(1000357795.png)
+
+## 👩‍💻 My Contribution
+
+- Analyzed the available IoT sensor dataset
+- Worked on dashboard design and visualization
+- Created KPI-based visualizations
+- Designed the dashboard layout for easy interpretation of sensor data
+- Documented the dashboard for project presentation
